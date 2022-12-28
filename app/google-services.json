@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865144800093",
+    "project_id": "uniampera-1e0c1",
+    "storage_bucket": "uniampera-1e0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865144800093:android:aa65225c0064dfff435eb4",
+        "android_client_info": {
+          "package_name": "com.example.fp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865144800093-jdoh2il1cq2lj9062i45dnbsi0s56nd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4PPyaxgSx9Kl0Q63NvJ_inieH4t7rLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865144800093-jdoh2il1cq2lj9062i45dnbsi0s56nd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
